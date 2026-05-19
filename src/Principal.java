@@ -11,7 +11,7 @@ public class Principal {
      public static void main(String[] args){
 
       gomitas a = new gomitas();
-        
+        //perro
         a.Costo();
         a.sabores();
         
